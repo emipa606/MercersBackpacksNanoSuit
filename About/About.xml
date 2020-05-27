@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mercer's Backpacks + Nano Suit (Continued)</name>
   <packageId>Mlie.MercerBackpacksNanoSuit</packageId>
@@ -48,7 +48,7 @@ It's armor values are:
 20% for sharp damage
 55% for heat damage
 
-It insolates 10° C heat and 15° C cold which equals 18° and 27° Fahrenheit respectively
+It insolates 10Â° C heat and 15Â° C cold which equals 18Â° and 27Â° Fahrenheit respectively
 
 
 Shoutout to Proxyer who did the japanese translation. All credits for that go to him.
