@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>MercersBackpacksNanoSuit</identifier>
-  <version>1.0.7.0</version>
+  <version>1.0.8.0</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
   <loadAfter />
-  <manifestUri>https://raw.githubusercontent.com/emipa606/MercerBackpacksNanoSuit/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/emipa606/MercerBackpacksNanoSuit/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/MercersBackpacksNanoSuit/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/MercersBackpacksNanoSuit/releases</downloadUri>
 </Manifest>
