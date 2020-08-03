@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
@@ -49,7 +50,7 @@ It's armor values are:
 20% for sharp damage
 55% for heat damage
 
-It insolates 10Â° C heat and 15Â° C cold which equals 18Â° and 27Â° Fahrenheit respectively
+It insolates 10° C heat and 15° C cold which equals 18° and 27° Fahrenheit respectively
 
 
 Shoutout to Proxyer who did the japanese translation. All credits for that go to him.
