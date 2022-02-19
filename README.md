@@ -1,6 +1,6 @@
 # MercersBackpacksNanoSuit
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Mercer a.k.a. jaeger972 mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1497233916
@@ -10,22 +10,13 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2015237435
 
 - Added a more colorful variant of the backpacks that show the color of the stuff they are made from better
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/MercersBackpacksNanoSuit]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-A tiny mod made while one of BaRKy&apos;s streams.
+A tiny mod made while one of BaRKy's streams.
 It adds backpacks for increased carrying capacity and Nano Suits boosting all kinds of stuff.
 
 Small Backpack adds 75 carrying capacity, which doubles the base value.
@@ -44,7 +35,7 @@ Nanosuit adds:
 +50% tending speed and
 -100% toxic sensitivity
 
-It&apos;s armor values are:
+It's armor values are:
 50% for blunt damage
 20% for sharp damage
 55% for heat damage 
@@ -55,7 +46,7 @@ It insolates 10° C heat and 15° C cold which equals 18° and 27° Fahrenheit r
 Shoutout to Proxyer who did the japanese translation. All credits for that go to him.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

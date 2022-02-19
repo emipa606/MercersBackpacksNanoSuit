@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef Abstract="true" Name="Mlie_UpdateFeatureBase">
     <modNameReadable>MercersBackpacksNanoSuit</modNameReadable>
     <linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2014570220</linkUrl>
   </HugsLib.UpdateFeatureDef>
-  <HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+  <HugsLib.UpdateFeatureDef ParentName="Mlie_UpdateFeatureBase">
     <defName>MercersBackpacksNanoSuit_1_0_9_0</defName>
     <assemblyVersion>1.0.9.0</assemblyVersion>
     <content>There is now a more colorful type of backpack that shows the color of the stuff its made from much brighter. Stats are the same as the darker variants.
