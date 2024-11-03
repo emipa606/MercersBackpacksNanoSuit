@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Bases -->
   <ThingDef ParentName="ApparelBase" Name="MCBackPackBase" Abstract="True">
@@ -39,6 +39,7 @@
       <recipeUsers>
         <li>ElectricTailoringBench</li>
         <li>HandTailoringBench</li>
+        <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_TailorsBench</li>
       </recipeUsers>
     </recipeMaker>
   </ThingDef>
@@ -218,6 +219,7 @@
       <recipeUsers>
         <li>ElectricTailoringBench</li>
         <li>HandTailoringBench</li>
+        <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_TailorsBench</li>
       </recipeUsers>
     </recipeMaker>
     <colorGenerator Class="ColorGenerator_Options">
