@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dark Large Backpack -->
+  <LargeBackpackMC.label>Dark Large Backpack</LargeBackpackMC.label>
+  <!-- EN: A large backpack to make carry even more things more convinient. -->
+  <LargeBackpackMC.description>A large backpack to make carry even more things more convinient.</LargeBackpackMC.description>
+  <!-- EN: Colorful Large Backpack -->
+  <LargeBackpackNaturalMC.label>Colorful Large Backpack</LargeBackpackNaturalMC.label>
+  <!-- EN: A large backpack to make carry even more things more convinient. -->
+  <LargeBackpackNaturalMC.description>A large backpack to make carry even more things more convinient.</LargeBackpackNaturalMC.description>
+  <!-- EN: Nanosuit -->
+  <NanoSuitMC.label>Nanosuit</NanoSuitMC.label>
+  <!-- EN: A nano fiber jumpsuit made for military personnel. -->
+  <NanoSuitMC.description>A nano fiber jumpsuit made for military personnel.</NanoSuitMC.description>
+  <!-- EN: Dark Small Backpack -->
+  <SmallBackpackMC.label>Dark Small Backpack</SmallBackpackMC.label>
+  <!-- EN: A small backpack to make carry things more convinient. -->
+  <SmallBackpackMC.description>A small backpack to make carry things more convinient.</SmallBackpackMC.description>
+  <!-- EN: Colorful Small Backpack -->
+  <SmallBackpackNaturalMC.label>Colorful Small Backpack</SmallBackpackNaturalMC.label>
+  <!-- EN: A small backpack to make carry things more convinient. -->
+  <SmallBackpackNaturalMC.description>A small backpack to make carry things more convinient.</SmallBackpackNaturalMC.description>
+</LanguageData>

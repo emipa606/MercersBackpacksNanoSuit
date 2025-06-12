@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make Large Backpack -->
+  <Make_LargeBackpackMC.label>make Large Backpack</Make_LargeBackpackMC.label>
+  <!-- EN: Make a Large Backpack. -->
+  <Make_LargeBackpackMC.description>Make a Large Backpack.</Make_LargeBackpackMC.description>
+  <!-- EN: Making Large Backpack. -->
+  <Make_LargeBackpackMC.jobString>Making Large Backpack.</Make_LargeBackpackMC.jobString>
+  <!-- EN: make Nanosuit -->
+  <Make_NanoSuitMC.label>make Nanosuit</Make_NanoSuitMC.label>
+  <!-- EN: Make a Nanosuit. -->
+  <Make_NanoSuitMC.description>Make a Nanosuit.</Make_NanoSuitMC.description>
+  <!-- EN: Making Nanosuit. -->
+  <Make_NanoSuitMC.jobString>Making Nanosuit.</Make_NanoSuitMC.jobString>
+  <!-- EN: make Small Backpack -->
+  <Make_SmallBackpackMC.label>make Small Backpack</Make_SmallBackpackMC.label>
+  <!-- EN: Make a Small Backpack. -->
+  <Make_SmallBackpackMC.description>Make a Small Backpack.</Make_SmallBackpackMC.description>
+  <!-- EN: Making Small Backpack. -->
+  <Make_SmallBackpackMC.jobString>Making Small Backpack.</Make_SmallBackpackMC.jobString>
+</LanguageData>

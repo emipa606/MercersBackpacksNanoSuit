@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 544830502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1ba2ac9423abe1ee07777e7bb62fde7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1ba2ac9423abe1ee07777e7bb62fde7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Hulk_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Hulk_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Female_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Male_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Thin_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Fat_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Female_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Fat_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Thin_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Hulk_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Hulk_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Female_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Fat_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Fat_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Male_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Thin_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Fat_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Thin_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Fat_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Hulk_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Thin_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Female_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Male_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Male_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Female_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Hulk_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Hulk_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Male_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Male_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Hulk_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Hulk_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Fat_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Female_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Male_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Female_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Female_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Thin_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Male_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Hulk_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Male_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Fat_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Hulk_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Female_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Male_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Thin_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Thin_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Thin_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Female_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Male_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Male_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Male_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Fat_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Thin_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Fat_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Hulk_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit_Hulk_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Fat_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Hulk_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Fat_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Thin_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Male_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/NanoSuit/NanoSuit.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Fat_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Female_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Thin_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Fat_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Female_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Female_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpack/SmallBackpack_Female_east.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Male_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Hulk_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Female_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpackNatural/LargeBackpackNatural_Thin_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Thin_north.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/LargeBackpack/LargeBackpack_Fat_south.png
+- Assets/Data/Mlie.MercerBackpacksNanoSuit/Textures/Things/SmallBackpackNatural/SmallBackpackNatural_Thin_south.png
+Dependencies: []
