@@ -25,6 +25,11 @@
       <bodyPartGroups>
         <li>Waist</li>
       </bodyPartGroups>
+      <drawData>
+        <dataNorth>
+          <layer>90</layer>
+        </dataNorth>
+      </drawData>
     </apparel>
     <costList>
       <Cloth>20</Cloth>
@@ -44,7 +49,7 @@
     </recipeMaker>
   </ThingDef>
   <ThingDef ParentName="MCBackPackBase" Name="MCSmallBackpackBase" Abstract="True">
-    <description>A small backpack to make carry things more convinient.</description>
+    <description>A small backpack to make carry things more convenient.</description>
     <statBases>
       <Insulation_Cold>2</Insulation_Cold>
       <MaxHitPoints>120</MaxHitPoints>
@@ -58,7 +63,7 @@
     <costStuffCount>40</costStuffCount>
   </ThingDef>
   <ThingDef ParentName="MCBackPackBase" Name="MCLargeBackpackBase" Abstract="True">
-    <description>A large backpack to make carry even more things more convinient.</description>
+    <description>A large backpack to make carry even more things more convenient.</description>
     <statBases>
       <MaxHitPoints>200</MaxHitPoints>
       <WorkToMake>8000</WorkToMake>
