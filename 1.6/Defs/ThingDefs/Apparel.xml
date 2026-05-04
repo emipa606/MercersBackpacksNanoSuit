@@ -12,6 +12,7 @@
     </thingCategories>
     <apparel>
       <careIfWornByCorpse>false</careIfWornByCorpse>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
       <tags>
         <li>Outlander</li>
       </tags>

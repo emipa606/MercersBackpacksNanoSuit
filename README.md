@@ -1,6 +1,6 @@
 # [Mercer's Backpacks + Nano Suit (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2014570220)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Mercer a.k.a. jaeger972 mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1497233916
@@ -10,9 +10,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2015237435
 
 - Added a more colorful variant of the backpacks that show the color of the stuff they are made from better
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 A tiny mod made while one of BaRKy's streams.
 It adds backpacks for increased carrying capacity and Nano Suits boosting all kinds of stuff.
@@ -44,13 +44,13 @@ It insolates 10° C heat and 15° C cold which equals 18° and 27° Fahrenheit r
 Shoutout to Proxyer who did the japanese translation. All credits for that go to him.
 
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -58,4 +58,4 @@ Shoutout to Proxyer who did the japanese translation. All credits for that go to
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MercersBackpacksNanoSuit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2014570220) | tags:  backpacks,  nanosuit
+[![Image](https://img.shields.io/github/v/release/emipa606/MercersBackpacksNanoSuit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2014570220) | tags: backpacks, nanosuit
