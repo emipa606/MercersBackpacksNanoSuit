@@ -58,4 +58,4 @@ Shoutout to Proxyer who did the japanese translation. All credits for that go to
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MercersBackpacksNanoSuit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2014570220) | tags: backpacks, nanosuit
+[![Image](https://img.shields.io/github/v/release/emipa606/MercersBackpacksNanoSuit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2014570220) | backpacks, nanosuit
